@@ -21,7 +21,7 @@
   .Principal{
     display: block;
     margin: 0 auto;
-    width: 30%;
+    
   }
   .princi{
     text-align:center;
@@ -29,6 +29,10 @@
   }
   .text{
     color: black;
+  }
+ .photo{
+    padding-left: 20px;
+    padding-bottom: 20px;
   }
 /* extra curricular activities */
 .heading{
